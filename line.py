@@ -14,5 +14,5 @@ def line():
     print("Dados los siguientes puntos:")
     dist=((x2-x1)**2+(y2-y1)**2)**(1/2)
     print(f"\tP1 {x1}, {y1}")
-    print(f"\tP2 {x1}, {y2}")
+    print(f"\tP2 {x2}, {y2}")
     print(f"\nLa distancia entre ellos es: {dist}")
